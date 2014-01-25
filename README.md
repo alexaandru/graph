@@ -1,4 +1,4 @@
-graph
+Graph
 =====
 
-Go directed, weighted (and sub-optimal, but working) graph implementation
+Go directed, weighted (and sub-optimal, but working) graph implementation.
